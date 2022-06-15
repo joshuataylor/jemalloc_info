@@ -9,5 +9,5 @@ edition = "2018"
 readme = "../README.md"
 
 [dependencies]
-jemalloc-ctl = "0.3"
-rustler = "0.22"
+jemalloc-ctl = "0.5"
+rustler = "0.25"
